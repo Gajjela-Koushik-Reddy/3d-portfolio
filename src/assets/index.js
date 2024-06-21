@@ -5,6 +5,9 @@ import menu from "./menu.svg";
 import algorithms from "./algorithms.png";
 import devnotes from "./devnotes.png";
 import oscs from "./oscs.png";
+import microservices from "./microservices.png";
+import snapnfix from "./snapnfix.png"
+import pantrynode from "./pantrynode.png"
 
-export { algorithms, close, devnotes, logo, menu, oscs };
+export { algorithms, close, devnotes, logo, menu, oscs, microservices, snapnfix, pantrynode };
 
