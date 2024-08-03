@@ -8,6 +8,7 @@ import oscs from "./oscs.png";
 import microservices from "./microservices.png";
 import snapnfix from "./snapnfix.png"
 import pantrynode from "./pantrynode.png"
+import resume from "./koushik_reddy_gajjala.pdf"
 
-export { algorithms, close, devnotes, logo, menu, oscs, microservices, snapnfix, pantrynode };
+export { algorithms, close, devnotes, logo, menu, oscs, microservices, snapnfix, pantrynode, resume };
 

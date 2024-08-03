@@ -1,8 +1,8 @@
 import {
-  algorithms,
   pantrynode,
   snapnfix,
   microservices,
+  resume,
 } from "../assets";
 
 export const navLinks = [
@@ -21,7 +21,7 @@ export const navLinks = [
   {
     id: "contact",
     title: "Contact",
-  },
+  }
 ];
 
 const experiences = [
@@ -67,5 +67,5 @@ const portfolio = [
   },
 ];
 
-export { experiences, portfolio };
+export { experiences, portfolio, resume };
 
